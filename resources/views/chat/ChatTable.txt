@@ -1,0 +1,5 @@
+sender varchar(n)
+receiver varchar(n)
+date date
+time time
+message varchar(n）800
